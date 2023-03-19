@@ -43,7 +43,7 @@ Here are some of the projects that I am working / worked on:
 - [LightNeuNet-Python](https://github.com/RapDoodle/LightNeuNet-Python): A light-weight neural network framework built for academic use (for Python, discontinued)
 - [SnakeAI](https://github.com/RapDoodle/SnakeAI): A from-scratch implementation of neural-network-based Snake AI optimized with genetic algorithm.
 - [GP Trading Bot](https://github.com/RapDoodle/GP-Trading-Bot): A genetic-programming-based traing bot for demo purposes.
-- [Quantum Finance SDK for MATLAB]: A repository containing implementation of Raymond S.T. Lee's definition of Quantum Finance.
+- [Quantum Finance SDK for MATLAB](https://github.com/RapDoodle/Quantum-Finance-SDK-MATLAB): A repository containing implementation of Raymond S.T. Lee's definition of Quantum Finance.
 - [Multi-agent-based Quantum Finance Trading System](): On-going research.
 
 ##### Other researches
