@@ -31,7 +31,8 @@ Here are some of the projects that I am working / worked on:
 
 ##### Developer-oridented utils
 
-- [Form2Cmd](https://github.com/RapDoodle/Form2Cmd): A declarative programming framework that helps build graphical user interfaces (GUIs) for command-line-only applications.
+- [**Form2Cmd**](https://github.com/RapDoodle/Form2Cmd): A declarative programming framework that helps build graphical user interfaces (GUIs) for command-line-only applications.
+- [Mangee Flask RESTful](https://github.com/RapDoodle/mangee-flask-restful): A template/framework designed to simplify the process of building scalable RESTful Flask applications.
 - [Report APIs](https://github.com/RapDoodle/Report-APIs): A simple RESTful API for collecting experimental results.
 
 ##### AI-related researches
