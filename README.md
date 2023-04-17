@@ -8,6 +8,7 @@ Here are some of the projects that I am working / worked on:
 
 ##### Web applications
 
+- [PopChat 2](https://github.com/RapDoodle/PopChat2): An online chat room that emphasizes zero-log and zero-store.
 - [SwiftSearch](https://github.com/RapDoodle/SwiftSearch): A lightweight web crawler/indexer/search engine.
 - [StyleCLIP Playground](https://github.com/RapDoodle/StyleCLIP-Playground): StyleCLIP Playground is a project that provides a web front-end to the StyleCLIP's official implementation.
 - [DegreeOverview](https://github.com/RapDoodle/DegreeOverview): A course definition system that aims to help course designers better plan and design university courses.
